@@ -23,6 +23,7 @@
     "@angular/platform-browser": "^4.2.4",
     "@angular/platform-browser-dynamic": "^4.2.4",
     "@angular/router": "^4.2.4",
+    "@ngrx/core": "^1.2.0",
     "@ngrx/db": "^2.0.2",
     "@ngrx/effects": "^4.0.5",
     "@ngrx/store": "^4.0.3",
